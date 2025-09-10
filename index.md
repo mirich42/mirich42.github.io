@@ -25,3 +25,9 @@ I came into a master's program looking to pick up practical skills to use in the
 
 ## Questions I would like to answer
 Broadly speaking... "is working in the field of Earth data analytics a good fit for me?" But more specifically, I have questions relating to my master's project, such as: how do the large rivers that connect the Great Lakes impact water temperatures within the Lakes?
+
+# Check it out!
+## "Making your own map"
+This is a map of the very best diner in Dobbs Ferry - the Dobbs Diner
+
+<embed type="text/html" src="dobbs_diner.html" width="600" height="600">
