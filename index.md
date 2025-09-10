@@ -29,5 +29,4 @@ Broadly speaking... "is working in the field of Earth data analytics a good fit 
 # Check it out!
 ## "Making your own map"
 This is a map of the very best diner in Dobbs Ferry - the Dobbs Diner
-
-<embed type="text/html" src="dobbs_diner.html" width="600" height="600">
+<embed type="text/html" src="img/dobbs_diner.html" width="600" height="600">
