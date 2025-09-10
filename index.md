@@ -1,6 +1,8 @@
 # Maddy Rich's Earth Data Science Portfolio
 ## Created for Earth Data Analytics, GEOG 5463, Fall 2025
 
+../img/IMG_1503.jpeg.
+
 ## Contact information:
 * email: madeline.rich@colorado.edu
 * GitHub account: https://github.com/mirich42
