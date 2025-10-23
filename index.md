@@ -29,7 +29,7 @@ Broadly speaking... "is working in the field of Earth data analytics a good fit 
 # Check it out!
 
 ## Climate coding challenge
-[Here](file:///C:/Users/madel/Downloads/climate_coding_portfolio_post.html) is an example of a basic analysis of air temperature trends in New York City, NY.
+[Here](climate_coding_portfolio_post.html) is an example of a basic analysis of air temperature trends in New York City, NY.
 
 ## "Making your own map"
 This is a map of the very best diner in Dobbs Ferry - the Dobbs Diner
