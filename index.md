@@ -31,6 +31,9 @@ Broadly speaking... "is working in the field of Earth data analytics a good fit 
 ## Climate coding challenge
 [Here](climate_coding_portfolio_post.html) is an example of a basic analysis of air temperature trends in New York City, NY.
 
+## Migration coding challenge
+[Here](portfolio_post_migration.html) is an example of an interactive species migration map, tracking the American White Pelican.
+
 ## "Making your own map"
 This is a map of the very best diner in Dobbs Ferry - the Dobbs Diner
 <embed type="text/html" src="img/dobbs_diner.html" width="600" height="600">
