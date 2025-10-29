@@ -12,7 +12,7 @@ To make a map of observations in each month, I needed to normalize the occurrenc
 
 I then made a plot of the normalized occurrences for each month of the year, check it out!
 
-<embed type="text/html" src="img/pelican_migration.html" width="600" height = "600">
+<embed type="text/html" src="pelican_migration.html" width="600" height = "600">
 <embed type="text/html" src="img/dobbs_diner.html" width="600" height="600">
 
 ## American White Pelican Migration Plot
