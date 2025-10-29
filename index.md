@@ -34,6 +34,8 @@ Broadly speaking... "is working in the field of Earth data analytics a good fit 
 ## Migration coding challenge
 [Here](portfolio_post_migration.html) is an example of an interactive species migration map, tracking the American White Pelican.
 
+[Take 2](test.md)
+
 ## "Making your own map"
 This is a map of the very best diner in Dobbs Ferry - the Dobbs Diner
 <embed type="text/html" src="img/dobbs_diner.html" width="600" height="600">
