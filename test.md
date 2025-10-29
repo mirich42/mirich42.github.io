@@ -12,7 +12,8 @@ To make a map of observations in each month, I needed to normalize the occurrenc
 
 I then made a plot of the normalized occurrences for each month of the year, check it out!
 
-<embed type="text/html" src="img\pelican_migration.html" width="600" height = "600">
+<embed type="text/html" src="img/pelican_migration.html" width="600" height = "600">
+<embed type="text/html" src="img/dobbs_diner.html" width="600" height="600">
 
 ## American White Pelican Migration Plot
 In the pelican migration plot you can clearly see how most American White Pelicans spend the winter months in the southern United States and Mexico and the summer months in the central United States up to central Canada. One thing that surprised me is that they do pass through the part of the United States where I grew up, around New York City. In New York spent a lot of time in the outdoors around wetlands from the spring to fall, and am surprised that I never noticed one of these very distinctive birds. It is also interesting to note that the peak times for American White Pelican observations here in Colorado appear to be April and August/September. It makes sense that they were on my mind, as I probably just saw some flying around a couple of weeks ago!
