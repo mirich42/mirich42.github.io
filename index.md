@@ -34,6 +34,9 @@ Broadly speaking... "is working in the field of Earth data analytics a good fit 
 ## Migration coding challenge
 [Here](portfolio_post_migration.html) is an example of an interactive species migration map, tracking the American White Pelican.
 
+## NDVI coding challenge
+[Here](la-fires-portfolio-post.ipynb) is an example of comparing NDVI before and after a wildfire event.
+
 ## Final Project!
 [Here](migration_portfolio_post.html) is my final project on the White Sucker, a fish in the Great Lakes.
 
