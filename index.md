@@ -30,7 +30,7 @@ My native lands are the suburbs of New York City, in a town called Dobbs Ferry. 
 ## NDVI coding challenge
 [Here](la-fires-portfolio-post.html) is an example of comparing NDVI before and after a wildfire event.
 
-## Final Project!
+## Fish Migration challenge
 [Here](migration_portfolio_post.html) is my final project looking at the spatial distribution of the White Sucker throughout the Great Lakes over the course of a year.
 
 ## Created in August 2025. Last update 1/31/26
